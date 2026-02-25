@@ -1,3 +1,6 @@
+# 💫 About Me:
+👨‍💻4th Year Computer Engineering student at Batangas State University<br>🌍 Aspiring GIS professional & passionate Full-Stack Developer<br>💡 Building data-driven and geospatial web solutions<br><br>🏓 Varsity Table Tennis Player<br>🎌 Anime & sports enthusiast<br>🍳 Loves cooking<br>🎵 Music keeps me inspired<br><br>Driven by discipline, creativity, and continuous growth — in tech and in life. 🚀
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/gwenythashlie) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gwennn_.n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gwenythashlie/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/GWENYTH-ASHLIE-VILLANUEVA-1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32414665/gwen-villanueva) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gwenythashlie19@gmail.com) 
