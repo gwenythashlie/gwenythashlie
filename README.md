@@ -1,57 +1,103 @@
-# 💫 About Me:
-👨‍💻 4th Year Computer Engineering student at Batangas State University<br>
-⚙️ Software Engineer — building scalable, data-driven web solutions<br>
-🧠 Focused on system architecture, full-stack development & creative engineering<br>
-<br>
-🏓 Varsity Table Tennis Player<br>
-🎌 Anime & sports enthusiast<br>
-🍳 Loves cooking<br>
-🎵 Music keeps me inspired<br>
-<br>
-Driven by discipline, creativity, and continuous growth — in tech and in life. 🚀
+<!-- ====== HERO ====== -->
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/gwenythashlie) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gwennn_.n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gwenythashlie/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gwenythashlie19@gmail.com)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,50:7B2FFF,100:FF2E97&height=220&section=header&text=GWENYTH%20ASHLIE&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20DevOps%20%26%20Security&descAlignY=60&descSize=18&animation=fadeIn" alt="header"/>
 
-# 💻 Tech Stack:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=800&color=00F5FF&center=true&vCenter=true&width=800&height=50&lines=%3E+PCB+%E2%86%92+firmware+%E2%86%92+API+%E2%86%92+UI.+I+build+the+whole+thing.;%3E+booting+dev.environment...+access+granted+%E2%9C%93;%3E+shipping+web+platforms%2C+IoT+rigs+%26+secure+systems" alt="typing"/>
 
-### Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+</div>
 
-### Backend & APIs
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> `~/whoami`
 
-### Databases & ORM
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+```yaml
+gwenyth@dev:~$ whoami --verbose
 
-### Cloud & Deployment
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
+role:       Full-Stack + Embedded Systems Developer
+location:   Lipa City, Batangas, Philippines
+stack:      web platforms / IoT + firmware / DevOps & security
+currently:  leveling up AI/LLM engineering + platform security
+motto:      "PCB -> firmware -> API -> UI. I build the whole thing."
 
-### Tools & DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+gwenyth@dev:~$ cat fun_facts.txt
 
-### Design & Prototyping
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+  - Varsity Table Tennis Player
+  - Anime & sports enthusiast
+  - Cooking is my debug break
+  - Music keeps the commits flowing
+```
 
-### Hardware & IoT
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+</div>
 
-### AI & Data
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+### <img src="https://media.giphy.com/media/W5eoZHPpUx9sn6y0RS/giphy.gif" width="28"> `./tech_stack --list`
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gwenythashlie&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gwenythashlie&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gwenythashlie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gwenythashlie&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+**Languages**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,java,kotlin,cpp,dart&theme=dark" />
 
----
-[![](https://visitcount.itsvg.in/api?id=gwenythashlie&icon=0&color=0)](https://visitcount.itsvg.in)
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs,flutter&theme=dark" />
+
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,graphql&theme=dark" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,redis&theme=dark" />
+
+**DevOps, Cloud & Security**
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,cloudflare,vercel,git,linux&theme=dark" />
+
+**AI / LLM & Data**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,py&theme=dark" />
+
+**Embedded / IoT & Tools**
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,figma,postman,vscode&theme=dark" />
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+</div>
+
+### <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> `git log --stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=gwenythashlie&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF2E97&text_color=ffffff&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwenythashlie&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff&langs_count=8" />
+
+<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=gwenythashlie&theme=radical&hide_border=true&background=0D1117&ring=00F5FF&fire=FF2E97&currStreakLabel=00F5FF" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=gwenythashlie&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+</div>
+
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> `./connect.sh`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gwenythashlie/)
+[![Email](https://img.shields.io/badge/Email-FF2E97?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gwenythashlie19@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gwenythashlie)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gwennn_.n)
+
+![Profile Views](https://komarev.com/ghpvc/?username=gwenythashlie&style=for-the-badge&color=00F5FF&label=VISITORS)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:FF2E97,50:7B2FFF,100:00F5FF&height=120&section=footer&text=thanks%20for%20scrolling%20%E2%9A%A1&fontColor=ffffff&fontSize=20&animation=twinkling" alt="footer"/>
+
+</div>
