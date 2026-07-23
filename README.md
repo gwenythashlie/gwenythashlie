@@ -1,7 +1,7 @@
 <!-- ====== HERO ====== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,50:7B2FFF,100:FF2E97&height=220&section=header&text=GWENYTH%20ASHLIE&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20DevOps%20%26%20Security&descAlignY=60&descSize=18&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,50:7B2FFF,100:FF2E97&height=220&section=header&text=GWENYTH%20ASHLIE&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20%7C%20Embedded%20Systems%20%7C%20DevOps%20and%20Security&descAlignY=60&descSize=18&animation=fadeIn" alt="header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=800&color=00F5FF&center=true&vCenter=true&width=800&height=50&lines=%3E+PCB+%E2%86%92+firmware+%E2%86%92+API+%E2%86%92+UI.+I+build+the+whole+thing.;%3E+booting+dev.environment...+access+granted+%E2%9C%93;%3E+shipping+web+platforms%2C+IoT+rigs+%26+secure+systems" alt="typing"/>
 
