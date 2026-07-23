@@ -74,12 +74,11 @@ gwenyth@dev:~$ cat fun_facts.txt
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gwenythashlie&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF2E97&text_color=ffffff&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwenythashlie&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff&langs_count=8" />
+<img width="80%" src="https://streak-stats.demolab.com/?user=gwenythashlie&theme=radical&hide_border=true&background=0D1117&ring=00F5FF&fire=FF2E97&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=888888" alt="streak"/>
 
-<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=gwenythashlie&theme=radical&hide_border=true&background=0D1117&ring=00F5FF&fire=FF2E97&currStreakLabel=00F5FF" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=gwenythashlie&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fgwenythashlie&query=%24.public_repos&style=for-the-badge&label=PUBLIC%20REPOS&color=00F5FF&labelColor=0D1117)
+![Followers](https://img.shields.io/github/followers/gwenythashlie?style=for-the-badge&label=FOLLOWERS&color=FF2E97&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/gwenythashlie?style=for-the-badge&label=TOTAL%20STARS&color=7B2FFF&labelColor=0D1117)
 
 </div>
 
